@@ -1,7 +1,7 @@
-## Frontend Mentor - Stats preview card component
+## Frontend Mentor - 4 Card Section
 
 ### Screenshot
-![version-desk](design/me/)
+![version-desk](design/)
 
 
 ### Links
