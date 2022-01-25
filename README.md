@@ -1,7 +1,7 @@
 ## Frontend Mentor - 4 Card Section
 
 ### Screenshot
-![version-desk](design/)
+![version-desk](design/desk.png)
 
 
 ### Links
