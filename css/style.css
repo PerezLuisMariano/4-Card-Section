@@ -76,6 +76,11 @@ main .top__text{
 }
 
 
+main cards__title{
+    position: absolute;
+    
+}
+
 /* MAIN --> CONTENT IN SECCTION CARDS*/
 main .cards{
     display: grid;
